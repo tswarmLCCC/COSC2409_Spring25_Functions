@@ -1,4 +1,4 @@
-# Introduction to Functions
+# Introduction to Lists
 
 Welcome to the COSC2409 Spring 25 Functions lesson! In this module, we will explore the fundamental concepts of functions in programming. Functions are essential building blocks in software development, allowing for modular, reusable, and organized code. By the end of this lesson, you will have a solid understanding of how to define, invoke, and utilize functions effectively in your programs.
 
